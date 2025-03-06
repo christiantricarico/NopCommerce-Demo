@@ -5,7 +5,7 @@
   "InstalledPlugins": [
     {
       "SystemName": "Payments.PayPalCommerce",
-      "Version": "4.80.13"
+      "Version": "4.80.14"
     },
     {
       "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
@@ -49,7 +49,7 @@
     },
     {
       "SystemName": "Payments.AmazonPay",
-      "Version": "4.80.7"
+      "Version": "4.80.8"
     },
     {
       "SystemName": "Payments.CheckMoneyOrder",
@@ -73,7 +73,7 @@
     },
     {
       "SystemName": "Shipping.UPS",
-      "Version": "4.80.4"
+      "Version": "4.80.5"
     },
     {
       "SystemName": "Tax.Avalara",
