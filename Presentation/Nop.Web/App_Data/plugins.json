@@ -5,7 +5,7 @@
   "InstalledPlugins": [
     {
       "SystemName": "Payments.PayPalCommerce",
-      "Version": "4.80.14"
+      "Version": "4.80.17"
     },
     {
       "SystemName": "DiscountRequirement.MustBeAssignedToCustomerRole",
